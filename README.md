@@ -36,4 +36,4 @@ To run this project, you will need to add the following environment variables to
 `OPENAI_API_KEY`
 ## Documentation
 
-[Documentation](https://github.com/HuzaifaTahir355/Hackathon/blob/main/documentation.pdf)
+For further details please check out the [Documentation](https://github.com/HuzaifaTahir355/Hackathon/blob/main/documentation.pdf)
